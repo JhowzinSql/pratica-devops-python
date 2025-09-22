@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Flask==2.2.2
 Werkzeug==2.3.7
+=======
+mysql-connector-python==8.0.33
+>>>>>>> 5ca8cda (Primeiro commit - estrutura do projeto DEVOPS)
